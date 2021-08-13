@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dili 
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Science
 - I’m looking to collaborate on multiple projects
